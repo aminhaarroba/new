@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PT: new1" tvg-logo="" group-title="Portugal H265",PT: mew1
 http://00.0088.pink:8880/paijoao/Oliveira/23332
-#EXTINF:-1 tvg-id="new 1hd" tvg-name="BTV 560P" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/btv_logo-white.png" group-title="Portugal Alternativo",new 560P
+#EXTINF:-1 tvg-id="new 1hd" tvg-name="new 560P" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/btv_logo-white.png" group-title="Portugal Alternativo",new 560P
 http://00.0088.pink:8880/paijoao/Oliveira/10880
 
 #EXTINF:-1 tvg-id="new 1hd" tvg-name="PT: new 1" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Desporto",PT: new 1
 http://00.0088.pink:8880/paijoao/Oliveira/10822
-#EXTINF:-1 tvg-id="new 1hd" tvg-name="PT: BTV 1 HD" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Desporto",PT: new HD
+#EXTINF:-1 tvg-id="new 1hd" tvg-name="PT: new 1 HD" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Desporto",PT: new HD
 http://00.0088.pink:8880/paijoao/Oliveira/10823
 #EXTINF:-1 tvg-id="" tvg-name="PT: new  ꜰʜᴅ " tvg-logo="" group-title="Desporto",PT: new 1  ꜰʜᴅ 
 http://00.0088.pink:8880/paijoao/Oliveira/19997
